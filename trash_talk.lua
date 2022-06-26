@@ -13,7 +13,6 @@ local garbage = {
     "xd";
     "stinky head";
     "you lose";
-    "zap = win";
     "why do you even try";
     "I didn't think being this bad was possible";
     "leave";
@@ -21,14 +20,12 @@ local garbage = {
     "ahahahahahahaha";
     "bad";
     "you're nothing";
-    "zap on top kid";
     "so trash";
     "so bad";
     "ur salty";
     "Internet explorer is faster than your reactions";
     "look he's mad";
     "cry more";
-    "get good, get zap";
     "keep crying";
     "cry baby";
     "hahaha I won";
@@ -36,30 +33,15 @@ local garbage = {
     "darn";
     "thank you for your time";
     "you were so close!";
-    "get good, get zap";
     "better luck next time!";
     "rodent";
-    "get good, get zp";
     "XD";
     "/e dab";
     "free wanted LOL";
-    ".gg/zp";
     "time to take out the trash";
-    "zap winning, L";
     "did you get worse?";
     "I'm surprised you haven't quit yet";
     "Man your aim is nothing.";
-    "Bros playing without zap"
-
-
-
-
-
-
-
-
-
-
 }
 
 
