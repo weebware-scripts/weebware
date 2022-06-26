@@ -1,4 +1,3 @@
-getgenv().CloseKey = Enum.KeyCode.V
 --[[ Lmao u using http spy on outdated ass scritp, ists cracked and open src bunny x remake :skull:
 
 
