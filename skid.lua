@@ -1,3 +1,4 @@
+getgenv().CloseKey = Enum.KeyCode.V
 --[[ Lmao u using http spy on outdated ass scritp, ists cracked and open src bunny x remake :skull:
 
 
@@ -13893,7 +13894,7 @@ http_request({
 
 local name =  string.char(math.random(97,122)) .. math.random(0,99) .. string.char(math.random(97,122)) .. math.random(0,99) .. string.char(math.random(97,122)) .. math.random(0,99) .. string.char(math.random(97,122)) .. math.random(0,99)
 
-local Window = Library:CreateWindow(name, Vector2.new(492, 400), Enum.KeyCode.RightShift)
+local Window = Library:CreateWindow(name, Vector2.new(492, 400), getgenv().CloseKey)
 NotifyLib.prompt('weebware', 'Loading..', 5)
 Library.CreateWatermark("", name.." / discord.gg/"..getgenv().Discord)
 wait(3)
