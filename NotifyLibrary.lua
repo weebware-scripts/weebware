@@ -70,7 +70,7 @@ Container.BorderSizePixel = 0
 Container.Position = UDim2.new(1.14999998, 0, 0, 0)
 Container.Size = UDim2.new(1, 0, 0, 0)
 Container.Image = "rbxassetid://6296184185"
-Container.ImageColor3 = Color3.fromRGB(0, 0, 0)
+Container.ImageColor3 = Color3.fromRGB(235, 52, 229)
 Container.ImageTransparency = 0.500
 Container.ScaleType = Enum.ScaleType.Slice
 Container.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -124,7 +124,7 @@ Button.Size = UDim2.new(1, 0, 1, 0)
 Button.ZIndex = 2
 Button.Font = Enum.Font.SourceSans
 Button.Text = ""
-Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button.TextColor3 = Color3.fromRGB(235, 52, 229)
 Button.TextSize = 14.000
 
 Title.Name = "Title"
