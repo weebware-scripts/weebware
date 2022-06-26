@@ -13867,6 +13867,7 @@
 
 ]]
 getgenv().Discord = "r4DGaqqQDd"
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/weebware-scripts/weebware/main/library.lua", true))()
 local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/weebware-scripts/weebware/main/NotifyLibrary.lua"))()
 Library.theme.accentcolor = Color3.fromRGB(235, 52, 229)
@@ -14556,6 +14557,17 @@ v:Destroy()
 end
 end
 end)
+
+VisualsSection:AddButton("Korblox", function()
+    local ply = game.Players.LocalPlayer
+	local chr = ply.Character
+	chr.RightLowerLeg.MeshId = "902942093"
+	chr.RightLowerLeg.Transparency = "1"
+	chr.RightUpperLeg.MeshId = "http://www.roblox.com/asset/?id=902942096"
+	chr.RightUpperLeg.TextureID = "http://roblox.com/asset/?id=902843398"
+	chr.RightFoot.MeshId = "902942089"
+	chr.RightFoot.Transparency = "1"
+    end)
 
 local animatedbeastmode = VisualsSection:AddButton("Animated Beast Mode", function()
 	while true do
